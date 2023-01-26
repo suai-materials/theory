@@ -1,0 +1,15 @@
+[submodule "01.01"]
+	path = 01.01
+	url = git@git.sr.ht:~pank_su/01.01
+[submodule "01.04"]
+	path = 01.04
+	url = git@git.sr.ht:~pank_su/01.04
+[submodule "02.02"]
+	path = 02.02
+	url = git@git.sr.ht:~pank_su/02.02
+[submodule "android"]
+	path = android
+	url = git@git.sr.ht:~pank_su/android
+[submodule "04.01"]
+	path = 04.01
+	url = git@git.sr.ht:~pank_su/04.01
